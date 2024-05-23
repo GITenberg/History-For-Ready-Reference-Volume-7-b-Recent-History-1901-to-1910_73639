@@ -1,5 +1,8 @@
 _repo: History-For-Ready-Reference-Volume-7-b-Recent-History-1901-to-1910_73639
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Larned, J. N. (Josephus Nelson)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53280
     wikipedia: https://en.wikipedia.org/wiki/Josephus_Nelson_Larned
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73639#History-For-Ready-Reference-Volume-7-b-Recent-History-1901-to-1910
 gutenberg_issued: '2024-05-16'
 gutenberg_type: Text
 identifiers:
